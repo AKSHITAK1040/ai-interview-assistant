@@ -185,4 +185,4 @@ By leveraging AI and modern web technologies, this platform creates a fair, effi
 
 ---
 
-**Made with ❤️ using React, TypeScript, and OpenAI**
+
